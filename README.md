@@ -8,3 +8,6 @@ Vandaag juiste uitleg gegeven over Github
 
 # hoofdstuk 3
 Iets met Push
+
+# Hoofdstuk 4
+Dit is om te laten zien dat Copilot een naam bedenkt en een beschrijving van wat er is aangepast.
