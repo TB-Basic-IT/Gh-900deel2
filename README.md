@@ -5,3 +5,6 @@ Dit is mijn aanpassing
 # Hoofdstuk 2
 Vandaag weer iets met Github gedaan
 Vandaag juiste uitleg gegeven over Github
+
+# hoofdstuk 3
+Iets met Push
