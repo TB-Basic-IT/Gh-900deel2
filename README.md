@@ -3,4 +3,4 @@ dit is een test repo
 Dit is mijn aanpassing
 
 # Hoofdstuk 2
-Vandaag weer lekker slap gepraat
+Vandaag juiste uitleg gegeven over Github
